@@ -1,6 +1,6 @@
 # Video Edukasi Arsitektur & Organisasi Komputer
 
-Proyek tugas UTS: video "Perjalanan Satu Ketukan Keyboard".
+Proyek tugas UTS: video "Apa yang Terjadi Saat Kamu Ketik "A"?" (konsep: Perjalanan Satu Ketukan Keyboard).
 
 Video: [tautan YouTube, isi setelah diunggah]
 
